@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(211, 213, 214);
+
+}
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.tefe{
+    text-align: center;
+}
+
+h3{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.carro{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 50px;
+    width: 400px;
+}
+p{
+    text-align: center;
+}
